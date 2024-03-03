@@ -1,6 +1,6 @@
 <h4 align="center">BINOMO Exchange</h4>
 
-# Open source cex exchange platform
+# Source cex exchange platform
 
 ## License
 Apache License, Version 2.0
